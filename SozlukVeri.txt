@@ -1,0 +1,356 @@
+-s/abstemious
+-a/not self-indulgent, especially when eating and drinking; temperate
+
+-s/acumen
+-a/the ability to make good judgments and quick decisions; shrewdness
+
+-s/adumbrate
+-a/to foreshadow or symbolize something; to give a sketchy outline of
+
+-s/aegis
+-a/the protection, backing, or support of a particular person or organization
+
+-s/aleatory
+-a/dependent on luck or chance; random
+
+-s/anathema
+-a/something or someone that is vehemently disliked; a curse or strong denunciation
+
+-s/anodyne
+-a/not likely to provoke dissent or offense; inoffensive, often deliberately so
+
+-s/antediluvian
+-a/very old-fashioned or outdated; belonging to a time before the biblical flood
+
+-s/apotheosis
+-a/the highest point in the development of something; culmination or climax
+
+-s/approbation
+-a/approval or praise, especially formal or official
+
+-s/arrant
+-a/complete and utter; outright
+
+-s/artless
+-a/without guile or deception; natural, sincere
+
+-s/ascribe
+-a/to attribute something to a particular cause, source, or origin
+
+-s/askance
+-a/with an attitude or look of suspicion or disapproval
+
+-s/attenuate
+-a/to reduce the force, effect, or value of something
+
+-s/augury
+-a/a sign of what will happen in the future; an omen
+
+-s/baleful
+-a/threatening harm; menacing
+
+-s/banal
+-a/so lacking in originality as to be obvious and boring
+
+-s/beguile
+-a/to charm or enchant someone, often in a deceptive way
+
+-s/bellicose
+-a/demonstrating aggression and willingness to fight; warlike
+
+-s/benighted
+-a/overtaken by darkness; intellectually or morally ignorant
+
+-s/bereft
+-a/deprived of or lacking something, especially a nonmaterial asset
+
+-s/blandishment
+-a/a flattering or pleasing statement or action used to persuade someone gently to do something
+
+-s/blithe
+-a/showing a casual and cheerful indifference considered to be callous or improper
+
+-s/bucolic
+-a/relating to the pleasant aspects of the countryside and country life
+
+-s/caitiff
+-a/a cowardly and despicable person; a wretch
+
+-s/calumniate
+-a/to make false and defamatory statements about someone
+
+-s/capricious
+-a/given to sudden and unaccountable changes of mood or behavior; unpredictable
+
+-s/carom
+-a/to rebound or deflect off something at an angle
+
+-s/cavil
+-a/to make petty or unnecessary objections; to find fault unnecessarily
+
+-s/choleric
+-a/bad-tempered or irritable
+
+-s/circumspect
+-a/wary and unwilling to take risks; cautious
+
+-s/colloquy
+-a/a conversation
+
+-s/contemn
+-a/to despise or scorn something; to treat with contempt
+
+-s/coruscate
+-a/to sparkle or glitter; to give off flashes of light
+
+-s/crapulous
+-a/relating to the drinking of alcohol or drunkenness
+
+-s/credulous
+-a/having or showing too great a readiness to believe things
+
+-s/cupidity
+-a/greed for money or possessions
+
+-s/debacle
+-a/a sudden and ignominious failure; a fiasco
+
+-s/deleterious
+-a/causing harm or damage
+
+-s/demagogue
+-a/a political leader who seeks support by appealing to popular desires and prejudices rather than by using rational
+
+-s/dichotomy
+-a/a division or contrast between two things that are or are represented as being opposed or entirely different
+
+-s/dilettante
+-a/a person who cultivates an area of interest, such as the arts, without real commitment or knowledge
+
+-s/discomfit
+-a/to make someone feel uneasy or embarrassed; to defeat or frustrate someone
+
+-s/disparate
+-a/fundamentally different; unrelated
+
+-s/dissimulate
+-a/to hide one's true feelings or intentions; to feign or conceal one's true emotions
+
+-s/dissolute
+-a/lacking moral restraint; indulging in sensual pleasures or vices
+
+-s/dolorous
+-a/feeling or expressing great sorrow or distress
+
+-s/doughty
+-a/brave and persistent; valiant
+
+-s/duplicity
+-a/deceitfulness; double-dealing
+
+-s/ebullient
+-a/cheerful and full of energy; exuberant
+
+-s/eclectic
+-a/selecting or choosing from various sources or styles
+
+-s/efficacious
+-a/producing the desired result; effective
+
+-s/effrontery
+-a/shameless boldness; impudence
+
+-s/egregious
+-a/outstandingly bad; shocking
+
+-s/eleemosynary
+-a/relating to charity; dependent on charity
+
+-s/embellish
+-a/to make something more attractive by adding decorative details or exaggerating certain aspects
+
+-s/enervate
+-a/to cause someone to feel drained of energy or vitality; to weaken or undermine something
+
+-s/enigmatic
+-a/difficult to interpret or understand; mysterious
+
+-s/ennui
+-a/a feeling of listlessness and dissatisfaction arising from a lack of occupation or excitement
+
+-s/enervate
+-a/to cause someone to feel drained of energy or vitality; to weaken or undermine something
+
+-s/enigmatic
+-a/difficult to interpret or understand; mysterious
+
+-s/epistemology
+-a/the theory of knowledge, especially with regard to its methods, validity, and scope
+
+-s/equivocate
+-a/to use ambiguous language to conceal the truth or to avoid committing oneself
+
+-s/erudite
+-a/having or showing extensive knowledge acquired through reading and study; scholarly
+
+-s/esoteric
+-a/intended for or likely to be understood by only a small number of people with a specialized knowledge or interest
+
+-s/ethereal
+-a/extremely delicate and light in a way that seems too perfect for this world; heavenly or spiritual
+
+-s/euphemism
+-a/a mild or indirect word or expression used in place of one considered to be too harsh or blunt
+
+-s/evanescent
+-a/soon passing out of sight, memory, or existence; quickly fading or disappearing
+
+-s/excoriate
+-a/to criticize or berate severely; to tear or wear the skin off of
+
+-s/exculpate
+-a/to show or declare that someone is not guilty of wrongdoing; to exonerate
+
+-s/exigent
+-a/urgent; requiring immediate attention or action
+
+-s/exorbitant
+-a/unreasonably high; excessive
+
+-s/expatiate
+-a/to speak or write at length or in detail; to elaborate
+
+-s/expiate
+-a/to atone or make amends for wrongdoing or guilt
+
+-s/expunge
+-a/to erase or remove completely; to obliterate
+
+-s/extemporaneous
+-a/spoken or done without preparation; impromptu
+
+-s/feckless
+-a/lacking in efficiency or vitality; ineffective or irresponsible
+
+-s/fecund
+-a/producing or capable of producing an abundance of offspring, vegetation, or creative ideas; fertile
+
+-s/feint
+-a/a deceptive or pretended blow, thrust
+
+-s/garrulous
+-a/talking excessively, especially about unimportant things
+
+-s/grandiloquent
+-a/using fancy, pompous language in an attempt to impress others
+
+-s/heterogeneous
+-a/consisting of diverse, dissimilar or varied elements
+
+-s/hierophant
+-a/a person who interprets sacred mysteries or esoteric principles
+
+-s/hirsute
+-a/having an excessive amount of hair, especially on the face or body
+
+-s/histrionic
+-a/excessively dramatic or emotional in behavior or speech
+
+-s/iconoclast
+-a/a person who attacks cherished beliefs or institutions
+
+-s/idiosyncrasy
+-a/a characteristic or habit peculiar to an individual; a quirk
+
+-s/ignominious
+-a/marking or involving a total disgrace or humiliation
+
+-s/impecunious
+-a/having little or no money; penniless
+
+-s/imperious
+-a/arrogantly domineering or overbearing
+
+-s/inchoate
+-a/just begun and not yet fully formed; rudimentary
+
+-s/incorrigible
+-a/unable to be reformed or corrected
+
+-s/indefatigable
+-a/incapable of being tired out; tireless
+
+-s/indolent
+-a/lazy or slothful; causing little or no pain
+
+-s/ineffable
+-a/too great or extreme to be expressed or described in words
+
+-s/inimical
+-a/tending to obstruct or harm; unfriendly or hostile
+
+-s/insidious
+-a/spreading harm or danger in a subtle, gradual way; treacherous
+
+-s/insouciant
+-a/carefree or unconcerned; indifferent or untroubled
+
+-s/intransigent
+-a/unwilling to compromise or moderate a position; inflexible
+
+-s/inveigle
+-a/to persuade someone to do something by using flattery or deception
+
+-s/invidious
+-a/likely to cause resentment or offense; unfairly discriminating
+
+-s/irascible
+-a/easily angered; prone to outbursts of temper
+
+-s/jejune
+-a/naive, simplistic, or superficial; lacking maturity or significance
+
+-s/jocular
+-a/fond of or characterized by joking; humorous or playful
+
+-s/judicious
+-a/showing good judgment; wise or sensible
+
+-s/juxtapose
+-a/to place side by side for comparison or contrast
+
+-s/kowtow
+-a/to act in an excessively subservient or deferential manner; to grovel
+
+-s/languid
+-a/lacking energy or vitality; slow or relaxed in movement
+
+-s/lascivious
+-a/lustful or lewd; tending to arouse sexual desire
+
+-s/legerdemain
+-a/skillful use of one's hands when performing conjuring tricks; deception or trickery
+
+-s/loquacious
+-a/tending to talk a great deal; talkative or chatty
+
+-s/lugubrious
+-a/mournful, dismal, or gloomy, especially to an exaggerated or ludicrous degree
+
+-s/machination
+-a/a crafty and elaborate scheme or plot, usually to do harm
+
+-s/magnanimous
+-a/generous and forgiving; unselfish
+
+-s/malevolent
+-a/wishing evil or harm to others; malicious
+
+-s/mellifluous
+-a/sweet and smooth sounding, especially in music or speech
+
+-s/mercurial
+-a/subject to sudden or unpredictable changes of mood or mind; fickle
+
+-s/metaphysical
+-a/relating to the nature of reality or existence
