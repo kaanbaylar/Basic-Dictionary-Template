@@ -8,7 +8,7 @@ class Program
     {
         Dictionary<string, string> sozluk = new Dictionary<string, string>();
 
-        // SozlukVeri.txt dosyasýný açýp okuma iþlemi yapýlýr.
+        // SozlukVeri.txt dosyasÄ±nÄ± aÃ§Ä±p okuma iÅŸlemi yapÄ±lÄ±r.
         using (StreamReader sr = new StreamReader("SozlukVeri.txt"))
         {
             string line;
@@ -30,10 +30,10 @@ class Program
 
         while (true)
         {
-            Console.WriteLine("Aranacak kelimeyi girin (çýkmak için é):");
+            Console.WriteLine("Aranacak kelimeyi girin (Ã§Ä±kmak iÃ§in Ã©):");
             string anahtarKelime = Console.ReadLine();
 
-            if (anahtarKelime.ToLower() == "é")
+            if (anahtarKelime.ToLower() == "Ã©")
             {
                 break;
             }
@@ -44,7 +44,7 @@ class Program
             }
             else
             {
-                Console.WriteLine($"{anahtarKelime} sözlükte bulunamadý.");
+                Console.WriteLine($"{anahtarKelime} sÃ¶zlÃ¼kte bulunamadÄ±.");
             }
         }
     }
